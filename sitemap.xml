@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://torneol.github.io/Portif-lio/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://torneol.github.io/Portif-lio/#sobre</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://torneol.github.io/Portif-lio/#projetos</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://torneol.github.io/Portif-lio/#servicos</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://torneol.github.io/Portif-lio/#contato</loc>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
