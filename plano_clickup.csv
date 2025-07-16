@@ -1,0 +1,15 @@
+Lista,Tarefa,Descrição,Status,Prioridade
+Desenvolvimento Web - HTML Avançado,Introdução ao HTML semântico,"Estudar tags semânticas como <header>, <main>, <article>, <section> e sua importância.",Aberta,Alta
+Desenvolvimento Web - HTML Avançado,Prática: Criar páginas com tags semânticas,"Montar uma página simples usando tags semânticas corretamente.",Aberta,Alta
+Desenvolvimento Web - HTML Avançado,Acessibilidade em HTML,"Estudar atributos ARIA, roles e práticas para melhorar acessibilidade.",Aberta,Média
+Desenvolvimento Web - HTML Avançado,Microdados e Schema.org,"Aprender sobre microdados para SEO e implementar schema básico.",Aberta,Média
+Desenvolvimento Web - HTML Avançado,Validação com W3C Validator,"Validar páginas usando o validador W3C e corrigir erros.",Aberta,Média
+SEO - Fundamentos On-Page,Meta tags essenciais,"Implementar meta title, description e keywords em páginas.",Aberta,Alta
+SEO - Fundamentos On-Page,Estrutura de headings,"Organizar conteúdo com hierarquia correta de H1, H2, H3.",Aberta,Alta
+SEO - Fundamentos On-Page,Texto alternativo em imagens,"Adicionar atributos alt descritivos em todas as imagens.",Aberta,Alta
+SEO - Fundamentos On-Page,Criar sitemap.xml básico,"Gerar sitemap para submissão no Google Search Console.",Aberta,Média
+SEO - Fundamentos On-Page,Configurar robots.txt simples,"Definir regras para rastreamento dos bots de busca.",Aberta,Média
+Desenvolvimento Web - CSS Avançado,Estudar Flexbox e Grid,"Aprender layout moderno com Flexbox e CSS Grid.",Aberta,Alta
+Desenvolvimento Web - CSS Avançado,Responsividade com Media Queries,"Adaptar layouts para dispositivos móveis e desktops.",Aberta,Alta
+Desenvolvimento Web - CSS Avançado,Animações básicas com Keyframes,"Criar animações simples para enriquecer UI.",Aberta,Média
+Desenvolvimento Web - CSS Avançado,Conceitos de Pré-processadores,"Entender SASS/LESS e vantagens para organização CSS.",Aberta,Média
